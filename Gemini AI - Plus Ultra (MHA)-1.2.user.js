@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name         Gemini AI - Plus Ultra (MHA)
-// @namespace    http://tampermonkey.net/
+// @namespace    https://tampermonkey.net/
 // @version      1.2
 // @description  Change the text of the current subscription from "Plus" to "Plus Ultra"
 // @author       Blunnix
+// @license      MIT
 // @match        https://gemini.google.com/*
 // @grant        none
 // @run-at       document-end
